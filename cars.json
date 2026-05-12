@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "make": "Subaru",
+    "model": "WRX",
+    "year": 1998,
+    "images": [
+      "images/wrx22bsti1998inside.jpg",  
+      "images/wrx22bsti1998.jpg"
+    ],
+    "difficulty": "Medium"
+  }
+]

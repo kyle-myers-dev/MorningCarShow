@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>MoneyShift.gg</title>
+</head>
+<body>
+    <header>
+        <h1>MoneyShift.gg</h1>
+    </header>
+        <section>
+            <div class="gallery-container">
+                <img id="carDisplay" src="" alt="Loading car image...">
+                <button onclick="showNextAngle()">Next Angle</button>
+            </div>
+            <div class="guess-container">
+                <input type="number" id="yearInput" placeholder="Year" required>
+                <select id="makeSelect" required>
+                    <option value="">Select Make</option>
+                </select>
+                <select id="modelSelect" required disabled>
+                    <option value="">Select Model</option>
+                </select>
+                <button id="guessButton" onclick="submitGuess()">Guess!</button>
+            </div>
+            <div id="results" style="display:none;">
+                <p id="scoreText"></p>
+                <p id="correctAnswer"></p>
+                <button onclick="copyScore()">Copy Score</button>
+            </div>
+        </section>
+    <footer class="container">
+        <p></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,3138 @@
+[
+  {
+    "id": 1,
+    "make": "Abarth",
+    "model": "Abarth Fiat 131",
+    "year": 1980,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "make": "Abarth",
+    "model": "Abarth 695 Biposto",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "make": "Acura",
+    "model": "Acura Integra Type-R",
+    "year": 2001,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "make": "Acura",
+    "model": "Acura NSX Type S",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "make": "Acura",
+    "model": "Acura Integra A-Spec",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "make": "Alfa Romeo",
+    "model": "Alfa Romeo Giulia TZ2",
+    "year": 1965,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "make": "Alfa Romeo",
+    "model": "Alfa Romeo SE 048SP",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "make": "Alfa Romeo",
+    "model": "Alfa Romeo Giulia GTAm",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "make": "Alumicraft",
+    "model": "Alumicraft Class 10 Race Car",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "make": "Alumicraft",
+    "model": "Alumicraft #122 Class 1 Buggy",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "make": "Alumicraft",
+    "model": "Alumicraft #6165 Trick Truck",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "make": "AMG TD",
+    "model": "AMG Transport Dynamics M12S Warthog CST",
+    "year": 2554,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "make": "Ariel",
+    "model": "Ariel Atom 500 V8",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "make": "Ariel",
+    "model": "Ariel Nomad",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "make": "Aston Martin",
+    "model": "Aston Martin DBS Superleggera",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "make": "Aston Martin",
+    "model": "Aston Martin Valhalla Concept Car",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "make": "Aston Martin",
+    "model": "Aston Martin Vantage",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "make": "Aston Martin",
+    "model": "Aston Martin Valkyrie",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "make": "Audi",
+    "model": "Audi #2 Audi Sport quattro S1",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "make": "Audi",
+    "model": "Audi RS 4 Avant",
+    "year": 2001,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "make": "Audi",
+    "model": "Audi RS 6",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "make": "Audi",
+    "model": "Audi RS 4",
+    "year": 2006,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "make": "Audi",
+    "model": "Audi RS 3 Sportback",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "make": "Audi",
+    "model": "Audi RS 5 Coup\u00e9",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "make": "Audi",
+    "model": "Audi RS 4 Avant",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "make": "Audi",
+    "model": "Audi RS 7 Sportback",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "make": "Audi",
+    "model": "Audi S1",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "make": "Audi",
+    "model": "Audi R8 V10 plus",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "make": "Audi",
+    "model": "Audi R8 V10 Performance",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "make": "Audi",
+    "model": "Audi RS 6 Avant",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "make": "Audi",
+    "model": "Audi RS 7 Sportback",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "make": "Audi",
+    "model": "Audi RS e-tron GT",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "make": "Autozam",
+    "model": "Autozam AZ-1",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "make": "BAC",
+    "model": "BAC Mono",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "make": "Bentley",
+    "model": "Bentley Bentayga",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "make": "BMW",
+    "model": "BMW Isetta 300",
+    "year": 1957,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "make": "BMW",
+    "model": "BMW 2002 Turbo",
+    "year": 1973,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "make": "BMW",
+    "model": "BMW M3",
+    "year": 1988,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "make": "BMW",
+    "model": "BMW M5",
+    "year": 1988,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "make": "BMW",
+    "model": "BMW 850 CSi",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "make": "BMW",
+    "model": "BMW M5",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "make": "BMW",
+    "model": "BMW M3",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "make": "BMW",
+    "model": "BMW M5",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "make": "BMW",
+    "model": "BMW M3",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "make": "BMW",
+    "model": "BMW M3",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "make": "BMW",
+    "model": "BMW Z4 M Coup\u00e9",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "make": "BMW",
+    "model": "BMW X5 M",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "make": "BMW",
+    "model": "BMW M5",
+    "year": 2012,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "make": "BMW",
+    "model": "BMW M4 GTS",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "make": "BMW",
+    "model": "BMW Z4 Roadster",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "make": "BMW",
+    "model": "BMW M2 Competition Coup\u00e9",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "make": "BMW",
+    "model": "BMW M4 Competition Coup\u00e9",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "make": "BMW",
+    "model": "BMW M4 Competition Coup\u00e9 'Welcome Pack'",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "make": "BMW",
+    "model": "BMW iX xDrive50",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "make": "BMW",
+    "model": "BMW M2",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "make": "BMW",
+    "model": "BMW X6 M Competition",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "make": "Buick",
+    "model": "Buick Regal GNX",
+    "year": 1987,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "make": "Cadillac",
+    "model": "Cadillac ATS-V",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "make": "Cadillac",
+    "model": "Cadillac CTS-V Sedan",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "make": "Cadillac",
+    "model": "Cadillac CT4-V Blackwing",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "make": "Cadillac",
+    "model": "Cadillac CT5-V Blackwing",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "make": "Can-Am",
+    "model": "Can-Am Maverick X RS Turbo R",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "make": "Casey Currie",
+    "model": "Casey Currie Motorsports #4402 Ultra 4 'Trophy Jeep'",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "make": "Chevrolet",
+    "model": "Chevrolet 150 Utility Sedan",
+    "year": 1955,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "make": "Chevrolet",
+    "model": "Chevrolet Bel Air",
+    "year": 1957,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette Stingray 427",
+    "year": 1967,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "make": "Chevrolet",
+    "model": "Chevrolet Chevelle Super Sport 454",
+    "year": 1970,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "make": "Chevrolet",
+    "model": "Chevrolet K-10 Custom",
+    "year": 1972,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "make": "Chevrolet",
+    "model": "Chevrolet Camaro Z28",
+    "year": 1979,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette ZR-1",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette Z06",
+    "year": 2002,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette Z06",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "make": "Chevrolet",
+    "model": "Chevrolet Camaro ZL1",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette ZR1",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "make": "Chevrolet",
+    "model": "Chevrolet Corvette Stingray Coupe",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "make": "Chevrolet",
+    "model": "Chevrolet Silverado LT Trail Boss",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "make": "Datsun",
+    "model": "Datsun 510",
+    "year": 1970,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 78,
+    "make": "DeBerti",
+    "model": "DeBerti Chevrolet Silverado 1500 Drift Truck",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "make": "DeBerti",
+    "model": "DeBerti Ford Super Duty F-250 Lariat \"Transformer\"",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "make": "DeBerti",
+    "model": "DeBerti Toyota Tacoma TRD \"The Performance Truck\"",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "make": "DeLorean",
+    "model": "DeLorean DMC-12",
+    "year": 1982,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "make": "Dodge",
+    "model": "Dodge Charger R/T",
+    "year": 1969,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "make": "Dodge",
+    "model": "Dodge Challenger R/T",
+    "year": 1970,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "make": "Dodge",
+    "model": "Dodge Viper GTS ACR",
+    "year": 1999,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "make": "Dodge",
+    "model": "Dodge Viper GTS ACR Forza Edition",
+    "year": 1999,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "make": "Dodge",
+    "model": "Dodge Challenger SRT Hellcat",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "make": "Dodge",
+    "model": "Dodge Charger SRT Hellcat",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "make": "Dodge",
+    "model": "Dodge Viper ACR",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "make": "Dodge",
+    "model": "Dodge Challenger SRT Demon",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "make": "Dodge",
+    "model": "Dodge Challenger SRT Super Stock",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "make": "Ferrari",
+    "model": "Ferrari 275 GTB4 Spider",
+    "year": 1967,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "make": "Ferrari",
+    "model": "Ferrari F355 Berlinetta",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "make": "Ferrari",
+    "model": "Ferrari 458 Speciale",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "make": "Ferrari",
+    "model": "Ferrari LaFerrari",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "make": "Ferrari",
+    "model": "Ferrari J50",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "make": "Ferrari",
+    "model": "Ferrari FXX-K Evo",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "make": "Ferrari",
+    "model": "Ferrari FXX-K Evo 'Welcome Pack'",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "make": "Ferrari",
+    "model": "Ferrari Portofino",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "make": "Ferrari",
+    "model": "Ferrari 488 Pista",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "make": "Ferrari",
+    "model": "Ferrari F80",
+    "year": 2025,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "make": "Ford",
+    "model": "Ford De Luxe Five-Window Coupe",
+    "year": 1932,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "make": "Ford",
+    "model": "Ford Mustang 2+2 Fastback",
+    "year": 1968,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "make": "Ford",
+    "model": "Ford RS200 Evolution",
+    "year": 1985,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "make": "Ford",
+    "model": "Ford F-150 XLT Lariat",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "make": "Ford",
+    "model": "Ford Sierra Cosworth RS500",
+    "year": 1987,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "make": "Ford",
+    "model": "Ford Escort RS Cosworth",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "make": "Ford",
+    "model": "Ford Racing Puma",
+    "year": 1999,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "make": "Ford",
+    "model": "Ford F-150 SVT Lightning",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 109,
+    "make": "Ford",
+    "model": "Ford Focus RS",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "make": "Ford",
+    "model": "Ford GT",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "make": "Ford",
+    "model": "Ford Focus RS",
+    "year": 2009,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "make": "Ford",
+    "model": "Ford Crown Victoria Police Interceptor",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "make": "Ford",
+    "model": "Ford Transit SuperSportVan",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "make": "Ford",
+    "model": "Ford Mustang Shelby GT500",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "make": "Ford",
+    "model": "Ford #11 Rockstar F-150 Trophy Truck",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "make": "Ford",
+    "model": "Ford Mustang Shelby GT350R",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "make": "Ford",
+    "model": "Ford #14 Rahal Letterman Lanigan Racing GRC Fiesta",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "make": "Ford",
+    "model": "Ford #25 'Brocky' Ultra4 Bronco RTR",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "make": "Ford",
+    "model": "Ford Focus RS",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "make": "Ford",
+    "model": "Ford Mustang RTR Spec 5",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "make": "Ford",
+    "model": "Ford #2069 Ford Performance Bronco R",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "make": "Ford",
+    "model": "Ford Mustang Shelby GT500",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "make": "Ford",
+    "model": "Ford Super Duty F-450 DRW PLATINUM",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "make": "Ford",
+    "model": "Ford Bronco Raptor",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "make": "Ford",
+    "model": "Ford F-150 Lightning",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "make": "Ford",
+    "model": "Ford Focus ST",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "make": "Ford",
+    "model": "Ford F-150 Raptor R",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "make": "Ford",
+    "model": "Ford F-150 Raptor R 'Welcome Pack'",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "make": "Ford",
+    "model": "Ford Fiesta ST",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "make": "Ford",
+    "model": "Ford Mustang Dark Horse",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "make": "Ford",
+    "model": "Ford Mustang GT",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "make": "Formula Drift",
+    "model": "Formula Drift #98 BMW 325i",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "make": "Formula Drift",
+    "model": "Formula Drift #34 Toyota Supra MkIV",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "make": "Formula Drift",
+    "model": "Formula Drift #43 Dodge Viper SRT10",
+    "year": 2006,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "make": "Formula Drift",
+    "model": "Formula Drift #117 599 GTB Fiorano",
+    "year": 2007,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "make": "Formula Drift",
+    "model": "Formula Drift #99 Mazda RX-8",
+    "year": 2009,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "make": "Formula Drift",
+    "model": "Formula Drift #777 Chevrolet Corvette",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "make": "Formula Drift",
+    "model": "Formula Drift #13 Ford Mustang",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "make": "Formula Drift",
+    "model": "Formula Drift #530 HSV Maloo Gen-F",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "make": "Formula Drift",
+    "model": "Formula Drift #411 Toyota Corolla Hatchback",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "make": "Formula Drift",
+    "model": "Formula Drift #91 BMW M2",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "make": "Formula Drift",
+    "model": "Formula Drift #151 Toyota GR Supra",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "make": "Formula Drift",
+    "model": "Formula Drift #64 Forsberg Racing Nissan Z",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "make": "Funco",
+    "model": "Funco Motorsports F9",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "make": "GMC",
+    "model": "GMC Jimmy",
+    "year": 1970,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "make": "GMC",
+    "model": "GMC Syclone",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "make": "Gordon Murray",
+    "model": "Gordon Murray Automotive T.50",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "make": "GR",
+    "model": "GR GT Prototype",
+    "year": 2025,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "make": "Holden",
+    "model": "Holden Torana A9X",
+    "year": 1977,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "make": "Honda",
+    "model": "Honda S800",
+    "year": 1970,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "make": "Honda",
+    "model": "Honda Civic RS",
+    "year": 1974,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "make": "Honda",
+    "model": "Honda City E II",
+    "year": 1984,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "make": "Honda",
+    "model": "Honda Civic Si",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "make": "Honda",
+    "model": "Honda #19 CRX WTAC",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "make": "Honda",
+    "model": "Honda Beat",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "make": "Honda",
+    "model": "Honda #21 Hardrace/JDMYard Civic WTAC",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "make": "Honda",
+    "model": "Honda NSX-R",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "make": "Honda",
+    "model": "Honda Acty",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "make": "Honda",
+    "model": "Honda Prelude Si",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 160,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "make": "Honda",
+    "model": "Honda #33 Integra WTAC",
+    "year": 2001,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "make": "Honda",
+    "model": "Honda S2000",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "make": "Honda",
+    "model": "Honda #52 Evasive Motorsports S2000 WTAC",
+    "year": 2004,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 2004,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "make": "Honda",
+    "model": "Honda NSX-R",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "make": "Honda",
+    "model": "Honda NSX-R GT",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 2007,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 168,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "make": "Honda",
+    "model": "Honda Ridgeline Baja Trophy Truck",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "make": "Honda",
+    "model": "Honda e",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "make": "Honda",
+    "model": "Honda Civic Type R",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "make": "HSV",
+    "model": "HSV GEN-F GTS",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "make": "Hyundai",
+    "model": "Hyundai Veloster N",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "make": "Hyundai",
+    "model": "Hyundai i30 N",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "make": "Hyundai",
+    "model": "Hyundai i20 N",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "make": "Hyundai",
+    "model": "Hyundai N Vision 74",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "make": "Hyundai",
+    "model": "Hyundai IONIQ 5 N",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "make": "Jaguar",
+    "model": "Jaguar D-Type",
+    "year": 1956,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "make": "Jaguar",
+    "model": "Jaguar E-Type",
+    "year": 1961,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "make": "Jeep",
+    "model": "Jeep Trailcat",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "make": "Jeep",
+    "model": "Jeep JT",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "make": "Jimco",
+    "model": "Jimco #240 Fastball Racing Spec Trophy Truck",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "make": "Jimco",
+    "model": "Jimco #179 Hammerhead Class 1",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "make": "Koenigsegg",
+    "model": "Koenigsegg CCGT",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "make": "Koenigsegg",
+    "model": "Koenigsegg Regera",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "make": "Koenigsegg",
+    "model": "Koenigsegg Jesko",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "make": "KTM",
+    "model": "KTM X-Bow GT4",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "make": "Lamborghini",
+    "model": "Lamborghini Miura P400",
+    "year": 1967,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "make": "Lamborghini",
+    "model": "Lamborghini Countach LP5000 QV",
+    "year": 1988,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "make": "Lamborghini",
+    "model": "Lamborghini Murci\u00e9lago LP 670-4 SV",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "make": "Lamborghini",
+    "model": "Lamborghini Centenario LP 770-4",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "make": "Lamborghini",
+    "model": "Lamborghini Urus",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "make": "Lamborghini",
+    "model": "Lamborghini Essenza SCV12",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "make": "Lamborghini",
+    "model": "Lamborghini Hurac\u00e1n STO",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "make": "Lamborghini",
+    "model": "Lamborghini Hurac\u00e1n Sterrato",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "make": "Lamborghini",
+    "model": "Lamborghini Hurac\u00e1n Tecnica",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "make": "Lancia",
+    "model": "Lancia Delta S4",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "make": "Lancia",
+    "model": "Lancia Delta HF Integrale Evo",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "make": "Land Rover",
+    "model": "Land Rover Range Rover Sport SVR",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "make": "Lexus",
+    "model": "Lexus LFA",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "make": "Lexus",
+    "model": "Lexus LFA Forza Edition",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "make": "Lexus",
+    "model": "Lexus RC F",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "make": "Lexus",
+    "model": "Lexus LC 500",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "make": "Lincoln",
+    "model": "Lincoln Continental",
+    "year": 1962,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "make": "Lotus",
+    "model": "Lotus Elise Series 1 Sport 190",
+    "year": 1999,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "make": "Lotus",
+    "model": "Lotus Scura Motorsport Exige WTAC",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "make": "Lotus",
+    "model": "Lotus Evija",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "make": "Lotus",
+    "model": "Lotus Emira",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "make": "Lucid",
+    "model": "Lucid Air Sapphire",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "make": "Maserati",
+    "model": "Maserati MC20",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "make": "Mazda",
+    "model": "Mazda RX-3",
+    "year": 1973,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "make": "Mazda",
+    "model": "Mazda RX-3 Forza Edition",
+    "year": 1973,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "make": "Mazda",
+    "model": "Mazda Savanna RX-7",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "make": "Mazda",
+    "model": "Mazda RX-7 Type R",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "make": "Mazda",
+    "model": "Mazda MX-5 Miata",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "make": "Mazda",
+    "model": "Mazda MX-5 Miata Forza Edition",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "make": "Mazda",
+    "model": "Mazda Mazdaspeed MX-5",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 219,
+    "make": "Mazda",
+    "model": "Mazda Furai",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "make": "Mazda",
+    "model": "Mazda Mazdaspeed 3",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "make": "Mazda",
+    "model": "Mazda RX-8 R3",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "make": "Mazda",
+    "model": "Mazda MX-5",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "make": "Mazda",
+    "model": "Mazda MX-5",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "make": "Mazda",
+    "model": "Mazda MX-5 Cup",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "make": "Mazda",
+    "model": "Mazda MX-5 Miata RF",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "make": "McLaren",
+    "model": "McLaren 12C Coup\u00e9",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "make": "McLaren",
+    "model": "McLaren 570S Coup\u00e9",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "make": "McLaren",
+    "model": "McLaren 765LT",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "make": "McLaren",
+    "model": "McLaren Sabre",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "make": "McLaren",
+    "model": "McLaren Artura",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG C 63 S Coup\u00e9",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG E 63 S",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG GT 4-Door Coup\u00e9",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG GT Black Series",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG GT Black Series 'Welcome Pack'",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "make": "Mercedes-AMG",
+    "model": "Mercedes-AMG SL 63",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz 300 SL Coup\u00e9",
+    "year": 1954,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz AMG Hammer Coupe",
+    "year": 1987,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz 190E 2.5-16 Evolution II",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz C 63 AMG Coup\u00e9 Black Series",
+    "year": 2012,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz A 45 AMG",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz G 65 AMG",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz G 65 AMG 6x6",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz Unimog U5023",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-Benz SLC 43 Final Edition",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "make": "Meyers",
+    "model": "Meyers Manx",
+    "year": 1971,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "make": "MG",
+    "model": "MG Metro 6R4",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "make": "MINI",
+    "model": "MINI Cooper S",
+    "year": 1965,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "make": "MINI",
+    "model": "MINI John Cooper Works GP",
+    "year": 2012,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "make": "MINI",
+    "model": "MINI X-raid John Cooper Works Buggy",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "make": "MINI",
+    "model": "MINI John Cooper Works GP",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi #269 Attacking the Clock Racing Minicab Time Attack",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Galant VR-4",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Eclipse GSX",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution III GSR",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi GTO",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Montero Exceed 2800 TD",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Montero Evolution",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution VI GSR TM Edition",
+    "year": 2001,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution VIII MR",
+    "year": 2004,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution VIII MR 'Welcome Pack'",
+    "year": 2004,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution IX MR",
+    "year": 2006,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "make": "Mitsubishi",
+    "model": "Mitsubishi Lancer Evolution X GSR",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "make": "Nissan",
+    "model": "Nissan Fairlady Z 432",
+    "year": 1969,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "make": "Nissan",
+    "model": "Nissan Skyline 2000GT-R",
+    "year": 1971,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "make": "Nissan",
+    "model": "Nissan Skyline H/T 2000GT-R",
+    "year": 1973,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "make": "Nissan",
+    "model": "Nissan #11 Tomica Skyline Turbo Super Silhouette",
+    "year": 1983,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "make": "Nissan",
+    "model": "Nissan Safari Turbo",
+    "year": 1985,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "make": "Nissan",
+    "model": "Nissan Skyline GTS-R",
+    "year": 1987,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "make": "Nissan",
+    "model": "Nissan PAO",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "make": "Nissan",
+    "model": "Nissan S-Cargo",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "make": "Nissan",
+    "model": "Nissan S-Cargo Forza Edition",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "make": "Nissan",
+    "model": "Nissan Silvia K's",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "make": "Nissan",
+    "model": "Nissan Pulsar GTI-R",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "make": "Nissan",
+    "model": "Nissan Figaro",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 277,
+    "make": "Nissan",
+    "model": "Nissan Skyline GT-R",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "make": "Nissan",
+    "model": "Nissan #32 Skyline WTAC 'Xtreme GTR'",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "make": "Nissan",
+    "model": "Nissan 240SX",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "make": "Nissan",
+    "model": "Nissan Fairlady Z Version S Twin Turbo",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "make": "Nissan",
+    "model": "Nissan Silvia K's",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "make": "Nissan",
+    "model": "Nissan Gloria Gran Turismo",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "make": "Nissan",
+    "model": "Nissan NISMO GT-R LM",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "make": "Nissan",
+    "model": "Nissan Skyline GT-R V-Spec",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "make": "Nissan",
+    "model": "Nissan Stagea RS Four V",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "make": "Nissan",
+    "model": "Nissan Silvia K's Aero",
+    "year": 1998,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "make": "Nissan",
+    "model": "Nissan #23 Pennzoil NISMO Skyline GT-R",
+    "year": 1998,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "make": "Nissan",
+    "model": "Nissan Skyline GT-R V-Spec II",
+    "year": 2000,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "make": "Nissan",
+    "model": "Nissan #36 Silvia WTAC",
+    "year": 2000,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "make": "Nissan",
+    "model": "Nissan Silvia Spec-R",
+    "year": 2002,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "make": "Nissan",
+    "model": "Nissan Fairlady Z",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "make": "Nissan",
+    "model": "Nissan GT-R Black Edition (R35)",
+    "year": 2012,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "make": "Nissan",
+    "model": "Nissan GT-R (R35)",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "make": "Nissan",
+    "model": "Nissan 370Z NISMO",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "make": "Nissan",
+    "model": "Nissan GT-R NISMO (R35)",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "make": "Nissan",
+    "model": "Nissan GT-R NISMO",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "make": "Nissan",
+    "model": "Nissan Z NISMO",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "make": "Pagani",
+    "model": "Pagani Zonda Cinque Roadster",
+    "year": 2009,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "make": "Pagani",
+    "model": "Pagani Huayra BC Coupe",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "make": "Pagani",
+    "model": "Pagani Huayra R",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "make": "Peel",
+    "model": "Peel P50",
+    "year": 1962,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "make": "Peel",
+    "model": "Peel P50 Trolli Edition",
+    "year": 1962,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "make": "Peugeot",
+    "model": "Peugeot 205 Turbo 16",
+    "year": 1984,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "make": "Peugeot",
+    "model": "Peugeot 205 Rallye",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 305,
+    "make": "Peugeot",
+    "model": "Peugeot 207 Super 2000",
+    "year": 2007,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "make": "Plymouth",
+    "model": "Plymouth Fury",
+    "year": 1958,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "make": "Plymouth",
+    "model": "Plymouth Barracuda Formula S",
+    "year": 1968,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "make": "Plymouth",
+    "model": "Plymouth Cuda 426 Hemi",
+    "year": 1971,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "make": "Polaris",
+    "model": "Polaris RZR Pro XP Ultimate",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "make": "Pontiac",
+    "model": "Pontiac Firebird Trans Am",
+    "year": 1977,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "make": "Pontiac",
+    "model": "Pontiac Firebird Trans Am GTA",
+    "year": 1987,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "make": "Porsche",
+    "model": "Porsche 911 Carrera RS",
+    "year": 1973,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "make": "Porsche",
+    "model": "Porsche 911 Turbo 3.3",
+    "year": 1982,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "make": "Porsche",
+    "model": "Porsche #185 959 Prodrive Rally Raid",
+    "year": 1986,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "make": "Porsche",
+    "model": "Porsche 928 GTS",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "make": "Porsche",
+    "model": "Porsche 968 Turbo S",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "make": "Porsche",
+    "model": "Porsche 911 GT2",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "make": "Porsche",
+    "model": "Porsche 911 GT1 Strassenversion",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "make": "Porsche",
+    "model": "Porsche 918 Spyder",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 320,
+    "make": "Porsche",
+    "model": "Porsche 911 Carrera S",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "make": "Porsche",
+    "model": "Porsche 911 GT3",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 322,
+    "make": "Porsche",
+    "model": "Porsche 911 GT3 RS",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "make": "Porsche",
+    "model": "Porsche 911 Rallye",
+    "year": 2023,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "make": "Ram",
+    "model": "Ram 1500 TRX",
+    "year": 2024,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "make": "Renault",
+    "model": "Renault 8 Gordini",
+    "year": 1967,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "make": "Renault",
+    "model": "Renault 5 Turbo",
+    "year": 1980,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "make": "Renault",
+    "model": "Renault Clio Williams",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "make": "Renault",
+    "model": "Renault Megane R26.R",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "make": "Renault",
+    "model": "Renault Megane RS 250",
+    "year": 2010,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "make": "Renault",
+    "model": "Renault Megane R.S.",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "make": "RJ Anderson",
+    "model": "RJ Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck",
+    "year": 2016,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "make": "RJ Anderson",
+    "model": "RJ Anderson #37 Polaris RZR Pro 4 Truck",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "make": "Saleen",
+    "model": "Saleen S7 LM",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 334,
+    "make": "SIERRA Cars",
+    "model": "SIERRA Cars 700R",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "make": "Subaru",
+    "model": "Subaru Legacy RS",
+    "year": 1990,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "make": "Subaru",
+    "model": "Subaru Vivio RX-R",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "make": "Subaru",
+    "model": "Subaru Vivio RX-R Forza Edition",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "make": "Subaru",
+    "model": "Subaru SVX",
+    "year": 1996,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "make": "Subaru",
+    "model": "Subaru Impreza 22B-STi Version",
+    "year": 1998,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "make": "Subaru",
+    "model": "Subaru Impreza WRX STi",
+    "year": 2004,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "make": "Subaru",
+    "model": "Subaru Legacy B4 2.0 GT",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "make": "Subaru",
+    "model": "Subaru Impreza WRX STI",
+    "year": 2008,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "make": "Subaru",
+    "model": "Subaru WRX STI",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "make": "Subaru",
+    "model": "Subaru BRZ",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "make": "Subaru",
+    "model": "Subaru WRX STI",
+    "year": 2015,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "make": "Subaru",
+    "model": "Subaru WRX STI ARX Supercar",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 347,
+    "make": "Subaru",
+    "model": "Subaru STI S209",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "make": "Subaru",
+    "model": "Subaru BRZ",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "make": "Subaru",
+    "model": "Subaru WRX",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "make": "Toyota",
+    "model": "Toyota Sports 800",
+    "year": 1965,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "make": "Toyota",
+    "model": "Toyota Sports 800 Fanta Edition",
+    "year": 1965,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "make": "Toyota",
+    "model": "Toyota 2000GT",
+    "year": 1969,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "make": "Toyota",
+    "model": "Toyota Corolla SR5",
+    "year": 1974,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "make": "Toyota",
+    "model": "Toyota FJ40",
+    "year": 1979,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 355,
+    "make": "Toyota",
+    "model": "Toyota Sprinter Trueno GT Apex",
+    "year": 1985,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 356,
+    "make": "Toyota",
+    "model": "Toyota Sprinter Trueno GT Apex Forza Edition",
+    "year": 1985,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "make": "Toyota",
+    "model": "Toyota MR2 SC",
+    "year": 1989,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "make": "Toyota",
+    "model": "Toyota Chaser GT Twin Turbo",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "make": "Toyota",
+    "model": "Toyota Sera",
+    "year": 1991,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "make": "Toyota",
+    "model": "Toyota Celica GT-Four RC ST185",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "make": "Toyota",
+    "model": "Toyota Supra 2.0 GT",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "make": "Toyota",
+    "model": "Toyota #1 Baja T100 Truck",
+    "year": 1993,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "make": "Toyota",
+    "model": "Toyota Celica GT-Four ST205",
+    "year": 1994,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "make": "Toyota",
+    "model": "Toyota J&J Motorsport Supra WTAC",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "make": "Toyota",
+    "model": "Toyota MR2 GT",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "make": "Toyota",
+    "model": "Toyota Chaser 2.5 Tourer V",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "make": "Toyota",
+    "model": "Toyota Soarer 2.5 GT-T",
+    "year": 1997,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "make": "Toyota",
+    "model": "Toyota Supra RZ",
+    "year": 1998,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "make": "Toyota",
+    "model": "Toyota Celica Sport Specialty II",
+    "year": 2003,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "make": "Toyota",
+    "model": "Toyota Crown Super Deluxe Taxi",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "make": "Toyota",
+    "model": "Toyota 86",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "make": "Toyota",
+    "model": "Toyota JPN Taxi",
+    "year": 2017,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "make": "Toyota",
+    "model": "Toyota 4Runner TRD Pro",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "make": "Toyota",
+    "model": "Toyota Tacoma TRD Pro",
+    "year": 2019,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "make": "Toyota",
+    "model": "Toyota GR Supra",
+    "year": 2020,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "make": "Toyota",
+    "model": "Toyota GR Yaris",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "make": "Toyota",
+    "model": "Toyota GR86",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "make": "Toyota",
+    "model": "Toyota Land Cruiser",
+    "year": 2025,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "make": "TVR",
+    "model": "TVR Sagaris",
+    "year": 2005,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "make": "TVR",
+    "model": "TVR Griffith",
+    "year": 2018,
+    "images": [],
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "make": "Volkswagen",
+    "model": "Volkswagen Type 2 De Luxe",
+    "year": 1963,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "make": "Volkswagen",
+    "model": "Volkswagen Class 5/1600 Baja Bug",
+    "year": 1969,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "make": "Volkswagen",
+    "model": "Volkswagen Golf GTI",
+    "year": 1983,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "make": "Volkswagen",
+    "model": "Volkswagen Golf GTI 16V Mk2",
+    "year": 1992,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "make": "Volkswagen",
+    "model": "Volkswagen Corrado VR6",
+    "year": 1995,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 386,
+    "make": "Volkswagen",
+    "model": "Volkswagen Scirocco R",
+    "year": 2011,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "make": "Volkswagen",
+    "model": "Volkswagen Golf R",
+    "year": 2014,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "make": "Volkswagen",
+    "model": "Volkswagen Golf R",
+    "year": 2021,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "make": "Volkswagen",
+    "model": "Volkswagen Golf R",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "make": "Volvo",
+    "model": "Volvo 242 Turbo Evolution",
+    "year": 1983,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "make": "Wuling",
+    "model": "Wuling Sunshine S",
+    "year": 2013,
+    "images": [],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "make": "Wuling",
+    "model": "Wuling Hongguang Mini EV Macaron",
+    "year": 2022,
+    "images": [],
+    "difficulty": "Easy"
+  }
+]
