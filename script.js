@@ -133,13 +133,12 @@ function updateDisplay() {
 
 // 4. Handle "Next Angle" Button
 function showNextAngle() {
-    if (imageIndex < currentCar.images.length - 1) {
-        imageIndex++;
-        updateDisplay();
-    } else {
-        alert("No more angles available for this car!");
-    }
+    // Cycles through 0, 1, 2, 3, then back to 0 automatically
+    imageIndex = (imageIndex + 1) % currentCar.images.length;
+    
+    updateDisplay();
 }
+
 
 // 5. Check the Guess & Calculate Score
 function submitGuess() {
@@ -163,10 +162,9 @@ function submitGuess() {
     // New SCORING LOGIC:
     let yearDiff = Math.abs(yearGuess - currentCar.year);
     let yearPoints = Math.max(0, 300 - (yearDiff * 30)); // Lose 30 points per year off
-    let makePoints = (makeGuess === currentCar.make) ? 100 : 0;
-    let modelPoints = (modelGuess === currentCar.model) ? 200 : 0;
-    let multiplier = 2.0 - (secondsTaken / 10);
-    multiplier = Math.max(0.1, multiplier); // Keep at least a small reward for eventually solving it
+    let makePoints = (makeGuess === currentCar.make) ? 50 : 0;
+    let modelPoints = (modelGuess === currentCar.model) ? 150 : 0;
+    let multiplier = secondsTaken <= 20 ? 2.0 : Math.max(0.1, 2.0 - ((secondsTaken - 20) / 10)); // Full 2.0x for first 20s, then decay
     let totalPoints = Math.round((yearPoints + makePoints + modelPoints) * multiplier);
     
     let shareText = `MoneyShift.gg \nYear +${yearPoints}\nMake +${makePoints}\nModel +${modelPoints}\nTime x${multiplier.toFixed(1)}\nTotal: ${totalPoints} points in ${secondsTaken.toFixed(1)}s`;
