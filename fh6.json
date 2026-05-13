@@ -2706,9 +2706,12 @@
   {
     "id": 339,
     "make": "Subaru",
-    "model": "Subaru Impreza 22B-STi Version",
+    "model": "Impreza 22B STI",
     "year": 1998,
-    "images": [],
+    "images": [
+      "images/wrx22bsti1998inside.jpg",
+      "images/wrx22bsti1998.jpg"
+    ],
     "difficulty": "Medium"
   },
   {

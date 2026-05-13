@@ -4,7 +4,10 @@ let imageIndex = 0;    // Which photo index are we on?
 let startTime = 0;     // To track the time bonus
 let currentShareText = ''; // For copying the score
 
-/* 
+const manualCarId = 339; // Change this ID manually while the JSON database is being filled
+
+/*
+
 const fallbackCarData = [
     {
         id: 1,
@@ -15,21 +18,32 @@ const fallbackCarData = [
         difficulty: 'Medium'
     }
 ];
+
 */
 
-// 1. Fetch the "Database"
+// 1. Load the game data
 async function initGame() {
     try {
-        const response = await fetch('cars.json');
+        const response = await fetch('fh6.json');
         carData = await response.json();
-        populateMakes();
-        startNewRound();
     } catch (error) {
         console.error("Could not load car data:", error);
-        console.warn("Using fallback car data.");
-        carData = fallbackCarData;
-        populateMakes();
-        startNewRound();
+        alert("Unable to load car data. Check that fh6.json is available.");
+        return;
+    }
+
+    populateMakes();
+    selectCarById(manualCarId);
+    startNewRound();
+}
+
+function selectCarById(id) {
+    const foundCar = carData.find(car => car.id === id);
+    if (foundCar) {
+        currentCar = foundCar;
+    } else {
+        console.warn(`Car with ID ${id} not found. Falling back to first car.`);
+        currentCar = carData[0] || null;
     }
 }
 
@@ -86,8 +100,10 @@ function copyScore() {
 
 // 2. Setup a New Round
 function startNewRound() {
-    // Pick the daily car
-    currentCar = getDailyCar();
+    // Use the manually selected car if one has already been chosen.
+    if (!currentCar) {
+        currentCar = getDailyCar();
+    }
     imageIndex = 0; 
     
     // Start the high-precision timer
@@ -149,7 +165,8 @@ function submitGuess() {
     let yearPoints = Math.max(0, 300 - (yearDiff * 30)); // Lose 30 points per year off
     let makePoints = (makeGuess === currentCar.make) ? 100 : 0;
     let modelPoints = (modelGuess === currentCar.model) ? 200 : 0;
-    let multiplier = Math.max(0, 2.0 - (secondsTaken / 10));
+    let multiplier = 2.0 - (secondsTaken / 10);
+    multiplier = Math.max(0.1, multiplier); // Keep at least a small reward for eventually solving it
     let totalPoints = Math.round((yearPoints + makePoints + modelPoints) * multiplier);
     
     let shareText = `MoneyShift.gg \nYear +${yearPoints}\nMake +${makePoints}\nModel +${modelPoints}\nTime x${multiplier.toFixed(1)}\nTotal: ${totalPoints} points in ${secondsTaken.toFixed(1)}s`;
